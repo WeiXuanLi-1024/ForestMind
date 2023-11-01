@@ -1,10 +1,8 @@
 # 提问模板
 
-请描述这副图
+请描述这副图片
 
-图中有烟吗？
-
-图中烟在什么位置？
+图中是否有烟？
 
 图中天气如何？
 
@@ -12,13 +10,8 @@
 
 图中有挖掘机吗？
 
-给出图中烟的坐标
-
-输出XX的检测框
 
 # 部分能力演示
-
-![5ee7ce626a5ef2ddf9c4438f241678d](https://github.com/WeiXuanLi-1024/ForestMind/assets/24350444/04757c2a-fd43-4c1b-a253-0a8d0cc5f3b8)
 
 ![97fa881b5047f76cc7c44791be9e848](https://github.com/WeiXuanLi-1024/ForestMind/assets/24350444/d7b19dec-5e7f-477d-b925-56bc1c863465)
 
